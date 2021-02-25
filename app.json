@@ -1,32 +1,17 @@
 {
   "expo": {
-    "name": "FedPangaea",
-    "slug": "FedPangaea",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+   "name": "Federation of Pangaea",
+   "icon": ".assets/icon.png",
+   "version": "1.0.2",
+   "slug": "FedPangaea",
+   "ios": {
+     "bundleIdentifier": "com.lannstoirme.federationofpangaea",
+     "buildNumber": "1.0.2"
+   },
+   "android": {
+     "package": "com.yourcompany.federationofpangaea",
+   }
   }
 }
+
+     
